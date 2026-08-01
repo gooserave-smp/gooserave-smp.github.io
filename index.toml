@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
-hash = "ff5cc2cb323fcfc334b4975b2d23ddffa01a6c42fb9b73128f7409bc617d9f4b"
+hash = "54b4e99b8e1262101b5d86345852dcdbc328bb43ad7412cc5171df786f22b398"
 metafile = true
 
 [[files]]
