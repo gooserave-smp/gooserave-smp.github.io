@@ -1,13 +1,13 @@
 name = "Just Enough Items (JEI)"
-filename = "jei-1.21.1-neoforge-19.43.0.390.jar"
+filename = "jei-1.21.1-neoforge-19.43.0.393.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/8NaWgvrh/jei-1.21.1-neoforge-19.43.0.390.jar"
+url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Y16jFgP5/jei-1.21.1-neoforge-19.43.0.393.jar"
 hash-format = "sha512"
-hash = "961cf35674e14f9bd587a1faa7c11e746d30131b1e0299ec5417b0d86a87680a659c7ff2497e23c15ca009021054fbd661213aac2c32c7fb4bf6a61b45908270"
+hash = "04ea7c24a00b980851a34b71899c44731df5b830feafe4172641ae5f42432aabd34ba2ea57fa8f0577823bed0212c4214d409a8ea2060038deed0e8e7e237e81"
 
 [update]
 [update.modrinth]
 mod-id = "u6dRKJwZ"
-version = "8NaWgvrh"
+version = "Y16jFgP5"
