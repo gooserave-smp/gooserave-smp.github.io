@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-simurail.pw.toml"
-hash = "e8eee5b3ec0f95b652e68309845ff013d817a92280a11a74391a0c211ef1b0ce"
+hash = "6335efc227f9baa948a811fd9fde7ec9db97d52091ed15c291cd682f22ed5cce"
 metafile = true
 
 [[files]]
