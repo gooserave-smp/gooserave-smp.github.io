@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "1b7de11aec3659d7240c71a5181627d34cc270c264d9ce58a944fc9dd28a85cf"
+hash = "1eb4094b466679316208fa85e5a855fc71945cfd639ff7f831586452b0cc3ad3"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "9828d3510390e79c136bd9269fb7d09dc4996cf26518780e2cd8f532399e26e6"
+hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "994e4c01094118ccc8f1c860bc1b2e94108b0a107fb93ed81e52700f670f8768"
+hash = "07f8cbd4f0be725e69a5ded37f0feadaaa6c5e579936c745d7119329c7654e04"
 metafile = true
 
 [[files]]
