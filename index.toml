@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "cee/electroenergetics-1.21.1-1.2.0.jar"
+hash = "34bda4a9d4b8b0db037196335eebdf0434e56c65ea66b8a81f15b896aabed369"
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
 metafile = true
@@ -32,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-electro-energetics.pw.toml"
-hash = "9af9c3fd6f070d13488c9a83608ad621064bd4557be853f012c04bbf7bd22963"
+hash = "ffcb88c75ba40ce72b947c5d0a2624588dcec16c4d64ae71eba83a68b4cf99ba"
 metafile = true
 
 [[files]]
