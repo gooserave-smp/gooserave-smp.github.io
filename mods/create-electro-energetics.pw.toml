@@ -1,13 +1,9 @@
 name = "Create: Electro Energetics"
-filename = "electroenergetics-1.21.1-1.1.1.jar"
+filename = "electroenergetics-1.21.1-1.2.0-129.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qYJdIoAx/versions/11zlqCk5/electroenergetics-1.21.1-1.1.1.jar"
+url = "https://github.com/george8188625/Create-Electro-Energetics/releases/download/autobuild-129/electroenergetics-1.21.1-1.2.0-129.jar"
 hash-format = "sha512"
-hash = "962ce12b3b755eea9c50f16f685a03f82268c5c6250dbcf3f25a11b62e01e39c8668571c2093703178736031e43139953fcb510e151a1950c638503b3eda1993"
+hash = "3e568315beae576c022be15456ce06f52f01402d721742d8e3058b6d084b14704aa22b76a4e9acef09e9f6af21adbdeaffe5cbf9902bd09d61d18b1f0deda30d"
 
-[update]
-[update.modrinth]
-mod-id = "qYJdIoAx"
-version = "11zlqCk5"
