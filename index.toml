@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-electro-energetics.pw.toml"
-hash = "3a894aa2e3b8b4f08e037cc64ed8e51bbc3e912fcb7ca1ed36cbcd1c87c22aa6"
+hash = "ff508f094da2869b295fc99ea0830e3dfeccd4993cc55e4adb6a0d51ded4fefd"
 metafile = true
 
 [[files]]
