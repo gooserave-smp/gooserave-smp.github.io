@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "480472cdda8cd7b88a0f1ecefe715a2284d5a3a0d85d8da39fe0e2e99bcb6011"
+hash = "3c513e51d7c76336af827569fb3107417b77d75dd6da9485a88ed5715bdc3647"
 metafile = true
 
 [[files]]
@@ -97,12 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "2b3710eb891a5f6c8a0db46f2b51b1505794ab10244353d35357d269279bbc86"
+hash = "650e3adc7fc139dfefa0fcbfacaccb9399fda1a77cf85b6732c157f51ca11bab"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9d4a04a61b2cebf80d76716f2d3c034d17f817327cbad6a79921a05c2e2c23a3"
+hash = "69a58880924a872f9dae89a601a4da75dafd96203ca88ba45ee3c38965db9f63"
 metafile = true
 
 [[files]]
