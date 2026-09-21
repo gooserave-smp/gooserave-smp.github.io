@@ -1,9 +1,9 @@
 name = "Create: Electro Energetics"
-filename = "electroenergetics-1.21.1-1.2.0.jar"
+filename = "electroenergetics-1.21.1-1.2.0-132.jar"
 side = "both"
 
 [download]
-url = "https://smp-modpack.gooserave.eu/cee/electroenergetics-1.21.1-1.2.0.jar"
+url = "https://github.com/george8188625/Create-Electro-Energetics/releases/download/autobuild-132/electroenergetics-1.21.1-1.2.0-132.jar"
 hash-format = "sha512"
-hash = "d2bec62e34a4611c0c39c489f142240e40e714876b301d79dcd37614858330c61e0882e574790b6d508165b6292d4e20e94c6eac5f85e1df08039931a52587b4"
+hash = "d47e75dd2c0935aee5779e17fff448228e5faba71260589b7b239ede29c5ed6b7bb72394ad937c7a0122c1952c21df49293187919b09bc338189e6c9cd622ba6"
 
