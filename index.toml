@@ -81,6 +81,11 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "f2d07484c181a72f27e4fbf8f3e643b2690ed19d8b76d7c6b3b20a93133f7ce9"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
@@ -113,6 +118,16 @@ metafile = true
 [[files]]
 file = "mods/tab-was-taken.pw.toml"
 hash = "661acc99102a88a35ea321ad78511b378a4c79297dc85521cc9b3353614f1a18"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "dd46fad79cf33a00123be0a74c73581da72cd98503ef23822a624a08f4b10ff2"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "7a94d48dc640239a65b9cb089d8a188308c5a418ac644de60c9437b5c93ca4a9"
 metafile = true
 
 [[files]]
