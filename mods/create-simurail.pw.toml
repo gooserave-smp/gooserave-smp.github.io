@@ -1,9 +1,9 @@
 name = "Create Simurail"
-filename = "simurail-0.1.0+mc1.21.1+9b9ddc3.jar"
+filename = "simurail-0.1.0+mc1.21.1+76f9008.jar"
 side = "both"
 
 [download]
-url = "https://smp-modpack.gooserave.eu/simurail/simurail-0.1.0+mc1.21.1+9b9ddc3.jar"
+url = "https://smp-modpack.gooserave.eu/simurail/simurail-0.1.0+mc1.21.1+76f9008.jar"
 
 hash-format = "sha512"
-hash = "c6fecaa51e5b4062136a32bbbf70598b7470203cf4c9224290b3d9297a14d570b94990e3609f2d08a9f6a3e2999cac0c28ee1cf3535a331c1bb5c75aad44ce43"
+hash = "0b6f98c937f872c7b3997a25847c2a54e7ee2ace3f8c002cbd68542cdd52e98bc2dc0d4263c007cdc58a8dfb2519110d36b9a3f84df8316b2456287133a47005"
